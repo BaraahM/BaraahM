@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Baraah Mekyash</h1>
-<h3 align="center">A passionate Network and Security Student</h3>
+<h1 align="center">Hi 👋, I'm Baraa M</h1>
+<h3 align="center">A passionate Network and Security Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraahm&label=Profile%20views&color=0e75b6&style=flat" alt="baraahm" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **BaraahMekyash@gmail.com**
 
-- 📝 I regularly update on my Machine Learning project here **https://aahmed-2002.wixsite.com/baraahpsm/search?q=ff**
+- 📝 I regularly update on my projects:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
