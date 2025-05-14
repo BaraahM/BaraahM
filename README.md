@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baraahm" alt="baraahm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://baraah-mekyash.netlify.app/](https://baraah-mekyash.netlify.app/)
+- 👨‍💻 All of my projects are available at ..
 
-- 📫 How to reach me **BaraahMekyash@gmail.com**
+- 📫 How to reach me 
 
 - 📝 I regularly update on my projects:**
 
